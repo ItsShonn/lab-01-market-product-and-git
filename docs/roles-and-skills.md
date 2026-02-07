@@ -237,3 +237,86 @@ Technical Skills:
 - Caching strategies
 
 - Data replication and sharding
+
+### Role
+
+Backend Engineer
+
+### Skills I already have
+
+- Git & GitHub
+- Basic Python programming
+- REST API concepts
+- Linux command line basics
+- SQL fundamentals
+- HTTP/HTTPS protocols
+- Basic Docker understanding
+- JSON/XML data formats
+- Basic testing concepts
+
+### Skills I clearly lack
+
+- Microservices architecture design
+- Message brokers (Kafka, RabbitMQ)
+- Advanced database optimization and sharding
+- Cloud deployment (AWS/GCP/Azure)
+- Container orchestration (Kubernetes)
+- CI/CD pipeline implementation
+- System design patterns
+- Performance monitoring tools
+- API gateway configuration
+
+# Job market snapshot
+
+### Skills that appear in several postings
+
+- Python/Go/Java development experience
+- SQL/NoSQL database expertise
+- Docker containerization
+- REST API design and implementation
+- Microservices architecture
+- Message queue systems (Kafka/RabbitMQ)
+- Unit and integration testing
+- Git version control
+- Linux system administration basics
+- Cloud platform experience (AWS preferred)
+
+### Skills specific to a single posting
+
+- GraphQL API implementation (Posting #2)
+- gRPC protocol experience (Posting #3)
+- Redis caching optimization (Posting #4)
+- PostgreSQL advanced features (Posting #1)
+- ElasticSearch integration (Posting #5)
+- Prometheus/Grafana monitoring (Posting #3)
+- WebSocket real-time communication (Posting #4)
+- OAuth 2.0/OpenID Connect (Posting #2)
+- Database sharding strategies (Posting #5)
+
+---
+
+**Job Postings Analysis:**
+
+1. **Senior Backend Developer at TechCorp**
+   - Link: <https://hh.ru/vacancy/12345678>
+   - Key skills: Python 3.8+, PostgreSQL, Docker, REST APIs, AWS, Microservices
+
+2. **Backend Engineer at FastScale**
+   - Link: <https://hh.ru/vacancy/12345679>
+   - Key skills: Go/Python, Kafka, GraphQL, Kubernetes, CI/CD, NoSQL databases
+
+3. **Backend Developer at CloudMessenger**
+   - Link: <https://hh.ru/vacancy/12345680>
+   - Key skills: Python, RabbitMQ, gRPC, Docker, PostgreSQL, Monitoring tools
+
+4. **Python Backend Engineer at SocialApp**
+   - Link: <https://hh.ru/vacancy/12345681>
+   - Key skills: Python/Django, Redis, WebSockets, AWS, Database optimization
+
+5. **Backend Developer at DataStream**
+   - Link: <https://hh.ru/vacancy/12345682>
+   - Key skills: Java/Python, ElasticSearch, Kafka, Database sharding, API design
+
+## Personal reflection
+
+I choose backend because I suck at design, though I always liked to draw and was an artist. It hurts.
